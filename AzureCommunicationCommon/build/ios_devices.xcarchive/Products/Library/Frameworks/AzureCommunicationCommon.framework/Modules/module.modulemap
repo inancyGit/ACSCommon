@@ -1,4 +1,0 @@
-framework module AzureCommunicationCommon {
-  header "AzureCommunicationCommon-Swift.h"
-  requires objc
-}
