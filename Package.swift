@@ -44,7 +44,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AzureCommunicationCommon",
-            url: "https://github.com/inancyGit/SPMCommon/releases/download/v1.0.0/AzureCommunicationCommon.xcframework.zip",
+            url: "https://github.com/inancyGit/SPMCommon/releases/download/1.0.0/AzureCommunicationCommon.xcframework.zip",
             checksum: "7fe003d5830ffee151ad69c4b26fd58bc64a50ff5a95318b41ff7cd31c9eb9a9"
         )
     ]
