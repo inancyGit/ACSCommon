@@ -45,7 +45,7 @@ let package = Package(
         .binaryTarget(
             name: "AzureCommunicationCommon",
             url: "https://github.com/inancyGit/AzureMirrorACSCommon/releases/download/v1.0.0/AzureCommunicationCommon.xcframework.zip",
-            checksum: "2d1b0ce0e3245bd157aadd7889b2573bd1cbeb97664177112046b32b54adfa1f"
+            checksum: "7fe003d5830ffee151ad69c4b26fd58bc64a50ff5a95318b41ff7cd31c9eb9a9"
         )
     ]
 )
